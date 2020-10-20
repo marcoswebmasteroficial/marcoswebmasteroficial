@@ -28,3 +28,5 @@ Meu nome é Marcos Vinícius. Atualmente moro em Minas Gerais, Apaixonado por te
 * Bootstrap
 * Docker
 * Seo
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswebmasteroficial&layout=compact&hide=html" alt="marcoswebmasteroficial" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoswebmasteroficial&show_icons=true" alt="marcoswebmasteroficial" /></p>
