@@ -7,27 +7,26 @@ Um sonho é apenas um desejo, até o momento em que você começa a atuar sobre 
 Meu nome é Marcos Vinícius. Atualmente moro em Minas Gerais, Apaixonado por tecnologia e compartilhar conhecimentos.Experiência de 15 anos no segmento de tecnologia,Atuando como freelancer como desenvolvedor Full Stack.
 
 
-## Experiência 📚
+## Experiências 📚
 
-* JavaScript
-* HTML5
-* PHP
-* JQuery
-* MySQL
-* AJAX
-* JSON
-* Photoshop
-* XML
+* JavaScript / Node / TypeScript / JQuery
+* HTML5 / CSS3 / Bootstrap
+* PHP / MySQL
+* JSON / XML / GraphQL
+* SVG
+* Photoshop / illustration
 * Microsoft Visual Studio
 * Microsoft Visual Studio Code
 * Microsoft SQL Server
-* Node.js
-* React.js
-* React Native
-* Flutter
-* Bootstrap
-* Docker
+* React.js / Next.js / ElectronJs
+* React Native / Flutter / PhoneGap
+* Vercel
 * Seo
+* Strapi
+* Axios / Apollo
+* Testing Library / Jest / Cypress
+* Storybook
+* Nodemailer
 
 ------------
 
