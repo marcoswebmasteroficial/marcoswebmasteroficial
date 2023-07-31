@@ -9,26 +9,47 @@ Meu nome é Marcos Vinícius. Atualmente moro em Minas Gerais, Apaixonado por te
 
 ## Experiências 📚
 
-* JavaScript / Node / TypeScript / JQuery
+Desenvolvimento Front-End
+------------------------
+* JavaScript / Node.js / TypeScript / jQuery
 * HTML5 / CSS3 / Bootstrap
-* PHP / MySQL
-* JSON / XML / GraphQL
-* SVG
-* Photoshop / illustration
-* Microsoft Visual Studio
-* Microsoft Visual Studio Code
-* Microsoft SQL Server
-* React.js / Next.js / ElectronJs
 * React Native / Flutter / PhoneGap
-* Vercel
-* Seo
-* Strapi
-* Axios / Apollo
+* Next.js / Express.js
+* Jest / Axios / Apollo
 * Testing Library / Jest / Cypress
-* Storybook
-* Nodemailer
+* Storybook / SVG / WebFont
 
-------------
+Softwares de Designer e Edição de Vídeo
+-----------------------
+* Photoshop / Illustration / Adobe Premiere
+
+IDEs e Editores de Texto
+-----------------------
+* Visual Studio / Visual Studio Code / NotePad ++
+
+Desenvolvimento Back-End
+------------------------
+* PHP / CodeIgniter
+* MySQL / PostgreSQL / Microsoft SQL Server / SQLite / Redis
+* Strapi / Stripe / Nodemailer
+* JSON / XML / GraphQL
+* Firebase 
+
+Hospedagem e Deploy
+-------------------------
+* Vercel / Cpanel
+* SEO (Otimização para Mecanismos de Busca)
+
+Testes e Ferramentas de Qualidade de Código
+----------------------------
+* Jest / Cypress / ESLint
+* Prettier
+
+Outras Ferramentas e Tecnologias
+-----------------------------
+* GraphQL / JSON Web Tokens (JWT) / RESTful APIs
+* Docker / Apache HTTP Server
+
 
 --- | ---
 --- | --- | 
